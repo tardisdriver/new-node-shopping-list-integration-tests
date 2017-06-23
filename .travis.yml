@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: llyrjMDkPBEBvTHX6jL19I8xPyksnc2XGXU/xSzN3CkOBLR2NsDIYUEO3Zfogh+1pe/UjoCSpAa7TAndu+rVQr8IrUfG7uhlUifkdBXwJHojmq0NAhVrJ9Poqho0uHUhe/avBt3lymMnWBj6qJj7PO1F5vrC69H2q5xWQqoWsouWuWvVHpDHY7XODQKKO0G0Fflu8f4FQIPeqxrNWe3WNeWmK1MD7/u+lrpTvpWhxP9Tb6JqeGPVB9c22FvIL1QzHpOSmZo8aakQoW0SChlose1VUmWUD8f+hvV2USnhhMD4PNH2Jax5ddHd44VNISUREkFNjuSeCXW5zIo0oqhuBSMrWUGyg5ipRDOdtcrxaeBZPm09Jwn6QIudgsQIJDdL/+Xnm0NfOyVC5NrBp3ANN1rlj2SR8mOleUBgy6woWW2C/dgPYDazI22XXbUa2co0KYCJV8j6RbNDiDXDrggCJ3iqgWHx7vvn0f+IQ/H7rQf8HramSnKSgXOihowX+sYQz+fWTmoiYnvKijbBxJ27sRg7R2i7iygoQ3OWgdYA7eY1o+U9J4jhEaqGUbLJ+mjj5KM94fs+rdY+emxlTzjxoibUW1thq7zVgCHWiV2nsq5/daX/OJzUNPfiY0+n0p8y3M3IBcw6fNXcyh3z7qO9wu51Dh/k5wxW7uNcuijtc/Q=
-  app: https://git.heroku.com/fast-refuge-88804.git
+  app: https://fast-refuge-88804.herokuapp.com/
   on:
     repo: tardisdriver/new-node-shopping-list-integration-tests
